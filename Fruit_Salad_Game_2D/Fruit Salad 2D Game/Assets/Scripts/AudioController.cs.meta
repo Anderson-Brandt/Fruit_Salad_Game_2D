@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a176f943377e0084daf7c450ae51d6c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - eat: {fileID: 8300000, guid: 9f8adc26817fc744bb7dba59badd12df, type: 3}
+  - jump: {fileID: 8300000, guid: b179091dfaa1ddd489cca7ed3feb5249, type: 3}
+  - enemyHit: {instanceID: 0}
+  - trampoline: {instanceID: 0}
+  - win: {instanceID: 0}
+  - finalWin: {instanceID: 0}
+  - gameOver: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
